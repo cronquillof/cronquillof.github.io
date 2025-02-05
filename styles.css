@@ -42,6 +42,17 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
+
+  
+  .audio-button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    background-color: #f436db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
   
   .gif_container img {
     max-width: 100%;
